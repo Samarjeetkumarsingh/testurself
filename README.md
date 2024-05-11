@@ -1,32 +1,28 @@
-# Tail
+# Materials Engineering
 
-Tail is a minimal Jekyll blog theme heavily based on [Tale](https://github.com/chesterhow/tale) (and hence the name). Apart from the minor fixes to Tale and significant changes under the hood, this theme is designed to make it easier to maintain a blog.
+Title: Welcome to Materials Engineering: Unveiling the World of Materials Science
 
-If you already have a bunch of files in `*.md` format, you can simply copy them to the `_posts` folder after forking this theme and making a few changes to `_config.yml`, your blog is ready to go!
+Welcome to our dedicated corner for Materials Engineering students! Here, we embark on an exploration of the fascinating realm of Materials Science and Engineering, where innovation meets the physical world to shape the technologies of tomorrow.
 
-## What's new in Tail
-- Dark Mode
-- Support for posts without the `YYYY-MM-DD` in the post's filename
-- Bi-directional Wiki-style linking support compatible with Obsidian (Planned)
+### What is Materials Engineering?
 
-## Features
-- Easy installation
-- Compatible with GitHub Pages
-- Responsive design
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
+Materials Engineering is a multidisciplinary field at the forefront of scientific and technological advancement. It encompasses the study of the properties, structure, processing, and applications of materials that form the foundation of modern civilization. From the metals in our skyscrapers to the polymers in our smartphones, materials are the building blocks of our modern society.
 
-## Contributing
-Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
+### Why Materials Engineering Matters
 
-## License
-See [LICENSE](https://github.com/jitinnair1/tail/blob/master/LICENSE)
+Materials Engineering plays a pivotal role in virtually every industry imaginable, from aerospace and automotive to healthcare and renewable energy. By understanding the behavior of materials at the atomic and molecular levels, materials engineers design and develop new materials with enhanced properties, durability, and functionality.
 
-PS: If you liked the theme, do star :star: it! Thanks!
+### What Materials Engineers Do
 
-### Also, check out:
+Materials engineers are innovators and problem-solvers. They work across various sectors, collaborating with scientists, designers, and manufacturers to create novel materials and improve existing ones. Whether it's developing lightweight alloys for aircraft or designing biocompatible implants for medical devices, materials engineers are at the forefront of innovation, driving progress and shaping the future.
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [gradfolio](https://github.com/jitinnair1/gradfolio) - a minimal, quick-setup template for a personal website/portfolio
+### Our Mission
+
+At our Materials Engineering hub, our mission is to empower and inspire the next generation of materials scientists and engineers. Through engaging content, educational resources, and real-world insights, we aim to foster a vibrant community of learners and professionals passionate about pushing the boundaries of materials science and engineering.
+
+### Explore, Learn, and Connect
+
+Join us on this exciting journey as we delve into the diverse world of Materials Engineering. Explore our resources, dive into the latest research, and connect with fellow enthusiasts and experts. Together, let's unlock the secrets of materials and unleash the power of innovation!
+
+Welcome to my blog!
+
