@@ -1,6 +1,6 @@
 # Site settings
-title:          Tail
-description:    "Minimal Jekyll blog theme"
+title:          Materials Engineering 
+description:    "Learn Metallurgy"
 baseurl:        "/tail"
 url:
 
@@ -12,9 +12,9 @@ google_analytics:
 
 # Author
 author:
-  name:         Jitin Nair
-  url:          https://jitin.xyz
-  email:        hello@jitin.xyz
+  name:         Samarjeet Kumar Singh
+  url:          https://samarjeet.xyz
+  email:        samarjeet.xyz@gmail.com
 
 # Build settings
 markdown:       kramdown
